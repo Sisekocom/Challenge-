@@ -13,7 +13,10 @@ function numbers() {
       }
 numbers()
 .then(result => {
-  console.log(result);
+  console.log(result); 
+
+  +
+  0 
 })
 .catch(error => {
   console.error(error); 
